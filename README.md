@@ -64,9 +64,9 @@ This application is based on the guidelines provided in the publication:
 
 ## 👤 About the Developer
 
-**Gustavo Roa** is a Ph.D. candidate in Soil Fertility and Nutrient Management at Kansas State University. Originally from Paraguay, Gustavo's research focuses on nutrient management and fertilizer efficiency. He is also pursuing an M.S. in Statistics and is passionate about applying data science tools to agronomic decision-making.
+**Gustavo Roa** is a Ph.D. candidate in Soil Fertility and Nutrient Management at Kansas State University. Originally from Paraguay, his research englove different studies related nitrogen, phosphorus and sulfur. He is also pursuing an M.S. in Statistics (Data Science and Analytics track), with a strong focus on applying data science to agronomic decision-making.
 
-📬 Feel free to connect or collaborate!
+🌐 Feel free to connect or collaborate: [https://gustavo-roa.github.io/](https://gustavo-roa.github.io/)
 
 ---
 
