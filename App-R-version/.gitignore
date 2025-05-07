@@ -1,0 +1,11 @@
+# R session and project files
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# System/editor files
+.DS_Store
+
+# Shinyapps.io deployment metadata
+rsconnect/

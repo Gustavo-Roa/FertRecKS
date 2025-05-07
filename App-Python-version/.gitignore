@@ -1,0 +1,15 @@
+# Compiled Python files
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+
+# System and editor settings
+.DS_Store
+.vscode/
+
+# Shiny for Python deployment cache and config
+.shiny/
+*.json  # Exclude rsconnect-python deployment 
