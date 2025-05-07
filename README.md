@@ -42,12 +42,12 @@ The application is modularized by nutrient and functionality:
 | `home`              | Welcome page with navigation and overview                                   |
 | `general_guide`     | Background on soil testing principles and MF2586 interpretation guidelines   |
 | `nitrogen`          | Calculates N requirements based on crop, yield, SOM, residual N, and efficiency |
-| `phosphorus`        | Supports both Sufficiency and Build & Maintenance strategies                 |
-| `potassium`         | Includes critical levels and removal-based K2O recommendations               |
-| `sulfur`            | Recommends S based on crop demand, organic matter, and soil profile S        |
-| `lime`              | Calculates lime requirements using buffer pH and soil incorporation depth    |
-| `micronutrients`    | Visual guidance for Zn, B, Cl based on MF2586 thresholds                     |
+| `phosphorus`        | Supports both Sufficiency and Build & Maintenance strategies for Phosphorus |
+| `potassium`         | Supports both Sufficiency and Build & Maintenance strategies for Potassium  |
 | `crop_removal`      | Estimates nutrient removal based on selected crop and yield level            |
+| `sulfur`            | Recommends S based on crop demand, organic matter, and soil profile S        |
+| `micronutrients`    | Visual guidance for Zn, B, Cl based on MF2586 thresholds                     |
+| `lime`              | Calculates lime requirements using buffer pH and soil incorporation depth    |
 
 ---
 
