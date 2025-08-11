@@ -14,12 +14,12 @@ Developed to streamline the complex tables and equations in the MF2586 document,
 
 ---
 
-## 🚀 Live App (Beta Version)
+## 🚀 Live App
 
-- 🔗 [FertRecKS – R version](https://gustavo-roa.shinyapps.io/KS-Fertilizer-Recommendation-App-R/)
-- 🔗 [FertRecKS – Python version](https://gustavo-roa.shinyapps.io/ks-fertilizer-recommendation-app-python1/)
+- 🔗 [FertRecKS – R version (V2)](https://ksusoiltesting.shinyapps.io/FertRecKS_App-R-v2/)
 
-Both versions are currently in beta. Users are encouraged to test and report any issues.
+This V2 release is the officially published version of FertRecKS, featuring updated design and color scheme for improved usability.  
+It is based on the original application code, with changes focused solely on visual presentation.
 
 ---
 
